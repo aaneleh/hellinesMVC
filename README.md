@@ -4,8 +4,8 @@
 [![Badge twitter](https://img.shields.io/twitter/follow/helena_kurzzz)](https://twitter.com/helena_kurzzz)
 
 Site em PHP com login e registro de usuários, página inicial para busca e compra e passagens, e paginas do administrador para gerenciamento da banco de dados.  
-Foi utilizado o XAMP para rodar o php, e phpmyadmin para criação do banco de dados.
-*Agora com classes!*
+Foi utilizado o XAMP para rodar o php, e phpmyadmin para criação do banco de dados.  
+**Agora com classes!**
 
 ## Sumário
 
